@@ -41,8 +41,8 @@ if [ $(uname -m) = "i686" ]; then
   Dftt="x86"
   arch="wine"
 else
-  Dftt="x64"
-  arch="wine64"
+  Dftt="x86"
+  arch="wine"
 fi
 
 
